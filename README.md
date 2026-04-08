@@ -22,6 +22,6 @@ A terminal-based Pokémon battle simulator featuring OOP logic and ASCII Art. Bu
 - **Timing Logic:** Utilizing `Thread.Sleep` to manage game pacing and smooth transitions.
 
 <img width="667" height="325" alt="Captura de tela_2026-04-08_06-50-21" src="https://github.com/user-attachments/assets/d33a3a31-a550-4089-b666-f66b6c27830f" />
-<img width="454" height="315" alt="Captura de tela_2026-04-08_06-50-39" src="https://github.com/user-attachments/assets/1208b62c-8f84-44b4-a49e-10883097e055" />
-![video-2026-03-13_-2026-04-08_06 12 49](https://github.com/user-attachments/assets/af3b2545-c1a4-45fc-bcee-957e09a5007d)
+
+<img width="454" height="315" alt="video-2026-03-13_-2026-04-08_06 12 49" src="https://github.com/user-attachments/assets/715c2c04-9ca5-483a-8ac2-76d8b6ee3b38" />
 
